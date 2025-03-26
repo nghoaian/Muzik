@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muzik</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Library</string>
+    <string name="title_login">Search</string>
+    <string name="default_web_client_id">969038139853-1j0atsdoj0p1h56ccqd7mqt3sdrvp9jv.apps.googleusercontent.com</string>
+</resources>

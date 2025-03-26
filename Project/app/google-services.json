@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969038139853",
+    "project_id": "onlinemuzikapp",
+    "storage_bucket": "onlinemuzikapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969038139853:android:04b10628339add4e1f7484",
+        "android_client_info": {
+          "package_name": "com.example.muzik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zOvbl9kyl9UCW3b82xa2tXvWRJnHdt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969038139853:android:f161e4e9a721075d1f7484",
+        "android_client_info": {
+          "package_name": "com.example.onlinemuzik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zOvbl9kyl9UCW3b82xa2tXvWRJnHdt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
